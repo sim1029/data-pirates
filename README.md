@@ -1,4 +1,5 @@
-# Big Ideas in Computing and Information Final Project - Team Data Pirates
+# Big Ideas in Computing and Information Final Project
+# Team Data Pirates (Lab Section A)
 ### Team Members
 * Eric Anderson - ema85@pitt.edu
 * Justin Reagle - jmr278@pitt.edu
